@@ -1,1 +1,4 @@
 # Application configuration yml file
+spring:
+  application:
+    name: myapp-config-server
